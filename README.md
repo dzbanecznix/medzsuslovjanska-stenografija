@@ -21,7 +21,7 @@ stenografija (sistema bystrogo pisanja) dlja medžuslovjanskogo jezyka.
 <br/>-da by napisati "e" levy znak pišemo široki i dol pravogo znaka pišemo pol polja vyše
 <br/>-da by napisati "u" levy znak pišemo široki i goru pravogo znaka pišemo pol polja niže
 <br/>napriklad:
-![aeoiyu](https://user-images.githubusercontent.com/60468598/119701938-2fe58280-be55-11eb-937e-6e48c35b1998.png)
+<br/>![aeoiyu](https://user-images.githubusercontent.com/60468598/119701938-2fe58280-be55-11eb-937e-6e48c35b1998.png)
 <br/>Ako vyšina znaka to 1 ili 1/2 polja:
 <br/>-da by napisati "a" dol i goru pravogo znaka pišemo pol polja vyše
 <br/>-da by napisati "i" ili "y" dol i goru pravogo znaka pišemo pol polja niže
