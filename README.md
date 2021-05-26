@@ -11,7 +11,7 @@ stenografija (sistema bystrogo pisanja) dlja medžuslovjanskogo jezyka.
 <br/>![definicije](https://user-images.githubusercontent.com/60468598/119700958-23acf580-be54-11eb-8129-764cf6b0e1d8.png)
 
 <br/>Znaky takože imajut širokoju versiju:
-![s z i r o k e  z n a k y](https://user-images.githubusercontent.com/60468598/119699543-91582200-be52-11eb-9fcf-b32a26356b79.png)
+![s z i r o k e  z n a k y](https://user-images.githubusercontent.com/60468598/119704646-2e698980-be58-11eb-87f8-5ef143d6a781.png)
 
 # samoglasky
 <br/>V slovu "pod" samogloska to "o", levy znak to "p", a pravyou znak to "d".
