@@ -14,7 +14,7 @@ stenografija (sistema bystrogo pisanja) dlja medžuslovjanskogo jezyka.
 ![s z i r o k e  z n a k y](https://user-images.githubusercontent.com/60468598/119704646-2e698980-be58-11eb-87f8-5ef143d6a781.png)
 
 # samoglasky
-<br/>V slovu "pod" samogloska to "o", levy znak to "p", a pravyou znak to "d".
+<br/>V slovu "pod" samogloska to "o", levy znak to "p", a pravy znak to "d".
 <br/>-da by napisati "a" dol pravogo znaka pišemo pol polja vyše
 <br/>-da by napisati "i" ili "y" goru pravogo znaka pišemo pol polja niže
 <br/>-da by napisati "o" levy znak pišemo široki
