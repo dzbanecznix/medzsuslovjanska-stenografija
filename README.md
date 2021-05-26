@@ -34,5 +34,5 @@ stenografija (sistema bystrogo pisanja) dlja medžuslovjanskogo jezyka.
 ![niczto](https://user-images.githubusercontent.com/60468598/119702994-6079ec00-be56-11eb-88de-9bfa4c59a1da.png)
 <br/><br/><br/>
 # To može prigoditi se:
-![bamk vs bamak](https://user-images.githubusercontent.com/60468598/119703107-7daeba80-be56-11eb-9b94-7fa3e3d0853a.png)
+![bamk vs bamak](https://user-images.githubusercontent.com/60468598/119705307-e0a15100-be58-11eb-8999-17ada9f7218a.png)
 ![ms steno](https://user-images.githubusercontent.com/60468598/119703262-a6cf4b00-be56-11eb-88d4-c2a4a5b0ff5e.png)
